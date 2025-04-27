@@ -12,7 +12,7 @@ Facultad de ingeniería UBA
 
 El sistema consiste en sensorica para las variables mencionadas, que trasmite señales a través de protocolo LoRaWAN a una Raspberry Pi 3B o Computador industrial instalado en el edificio de control de la subestación que no solo procesa los datos de las mediciones, sino que sirve de Broker para trasmitir los datos al SAS de la subestación bajo protocolo IEC 61850
 
-![Imagen del dispositivo.](doc/disp.jpg)
+![Imagen del dispositivo.](disp.jpg)
 
 # Objetivo
 
