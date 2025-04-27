@@ -10,7 +10,7 @@ Facultad de ingeniería UBA
 
 * El sistema de monitoreo de corriente de fuga en una subestación eléctrica, permite identificar el incremento de corrientes de perdidas por el aislamiento de los equipos, producto del incremento de contaminantes conductivos, que al mezclarse con la humedad relativa del ambiente genera "electrolito" conductivos, aptos para que corrientes fluyan entre el elemento energizado y tierra. Al incrementarse estas corrientes representativamente, pueden producir un "cortocircuito" en el sistema eléctrico, generando actuación de las protecciones eléctricas, disparo de circuitos, indisponibilidades de los activos de trasmisión o distribución que se ven reflejadas en Energía No Suministrada (ENS) a los clientes finales y perdidas millonarias al transmisor o distribuidor a través de multas.
 
-El sistema consiste en sensorica para las variables mencionadas, que trasmite señales a través de protocolo LoRaWAN a una Raspberry Pi 3B o Computador industrial instalado en el edificio de control de la subestación que no solo procesa los datos de las mediciones, sino que sirve de Broker para trasmitir los datos al SAS de la subestación bajo protocolo IEC 61850
+* El sistema consiste en sensorica para las variables mencionadas, que trasmite señales a través de protocolo LoRaWAN a una Raspberry Pi 3B o Computador industrial instalado en el edificio de control de la subestación que no solo procesa los datos de las mediciones, sino que sirve de Broker para trasmitir los datos al SAS de la subestación bajo protocolo IEC 61850
 
 ![Imagen del dispositivo.](disp.jpg)
 
